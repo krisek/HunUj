@@ -33,5 +33,7 @@ echo "ok."
 
 Amennyiben a ´locales.d` könytárat a $HOME/.sword könyvtárba másolod, magyar könyvcímeket is használhatsz a bibiliaolvasó alkalmazásokban.
 
+A szöveg eredetileg a parokia.hu oldalról származik, ahol már nem hozzáférhető.
+
 A Magyar Biblia Társulat engedélyt adott a Crosswire Bible Society-nek a kész modul terjesztésére, ha Te is terjeszteni akarod, akkor mindeképpen kérd a Magyar Bibliatársulat hozzájárulását.
 
